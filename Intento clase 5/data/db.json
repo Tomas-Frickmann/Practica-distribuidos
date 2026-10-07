@@ -1,0 +1,26 @@
+{
+  "notes": [
+    {
+      "id": "83e589c0-4f39-4e05-abbf-85714e840640",
+      "title": "dsad",
+      "text": "asdasdas",
+      "minutes": 1,
+      "createdAt": 1791347182339,
+      "notified": true
+    }
+  ],
+  "users": [
+    {
+      "id": "4c6db2c7-aa7e-43e7-b110-ed5103849c83",
+      "name": "tomas frickmann",
+      "email": "facultadingeneria2022@gmail.com",
+      "passwordHash": "$2b$10$cqatygXt9H8X1xWFA71Z6ex8xNLO8HG2gBOz7g.alCLyAzX2TFJg."
+    },
+    {
+      "id": "6b374e1b-170b-46fc-87fa-5c56a79d4ce5",
+      "name": "tomas frickmann",
+      "email": "facultadingeneria@gmail.com",
+      "passwordHash": "$2b$10$bTfHErEMvyTrzMOTgnvgFenI5tLG8SHfLbds7346LHQBXUvc23XSi"
+    }
+  ]
+}
