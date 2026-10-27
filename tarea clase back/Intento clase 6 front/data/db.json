@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "0fe75d82-ea44-4a9e-983a-6b96f80efd22",
+      "name": "sdfghjklñ",
+      "email": "facultadingeneria2022@gmail.com",
+      "passwordHash": "$2b$10$fNPHdr4b66uiCzds5CkG7ehBR.YOFNQWUZ7maXqlhRY9fX8alzCUm"
+    }
+  ]
+}
