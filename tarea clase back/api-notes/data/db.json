@@ -1,0 +1,20 @@
+{
+  "notas": [
+    {
+      "id": "f43053b0-01b5-4000-911b-edbbf172cc54",
+      "title": "ythty",
+      "text": "ty",
+      "minutes": 1,
+      "createdAt": 1793061362611,
+      "notified": true
+    },
+    {
+      "id": "865190e4-f288-4cd1-90b8-e91bd013e31a",
+      "title": "Hacer tarea",
+      "text": "Hacer tp de SSDD",
+      "minutes": 15,
+      "createdAt": 1793061502826,
+      "notified": true
+    }
+  ]
+}
