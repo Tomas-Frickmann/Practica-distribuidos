@@ -12,9 +12,9 @@
       "id": "865190e4-f288-4cd1-90b8-e91bd013e31a",
       "title": "Hacer tarea",
       "text": "Hacer tp de SSDD",
-      "minutes": 15,
-      "createdAt": 1793061502826,
-      "notified": true
+      "minutes": 1,
+      "createdAt": 1793117144116,
+      "notified": false
     }
   ]
 }
